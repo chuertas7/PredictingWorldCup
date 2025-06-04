@@ -5,7 +5,7 @@ This project uses player-level statistics and position-specific analysis to esti
 ## Project Structure
 
 - [PhaseIII.ipynb](./PhaseIII.ipynb) – Main notebook where the player evaluation logic, team comparison engine, and simulation are implemented.
-- [summary_file.xlsx](./summary_file.xlsx) – Cleaned and summarized dataset containing player stats and performance metrics.
+- [summary_file.xlsx](./summary_file.xlsx) – Final output summary of the model, including team-by-team results and stage advancement tracking.
 - [visualization1.png](./visualization1.png) – Bar chart showing the average team strength (aggregated player rating) for all countries in the 2022 World Cup. This reflects the model's baseline ranking of each squad.
 - [visualization2.png](./visualization2.png) – Pie chart showing the relative performance of countries during the group stage, based on points earned and advancement rates. Highlights the most dominant teams early in the tournament.
 - [visualization3.png](./visualization3.png) – World map showing countries that reached the knockout stages, color-coded by how far they progressed (e.g., round of 16, quarterfinals, semifinals, final).
