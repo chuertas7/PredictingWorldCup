@@ -4,10 +4,13 @@ This project uses player-level statistics and position-specific analysis to esti
 
 ## Project Structure
 
-- `PhaseIII.ipynb` – Main notebook where the player evaluation logic, team comparison engine, and simulation are implemented.
-- `summary_file.xlsx` – Cleaned and summarized dataset containing player stats and performance metrics.
-- `visualization1.png` to `visualization3.png` – Visuals of our rating distributions, matchup results, and final tournament predictions.
-- `README.md` – Project overview and documentation.
+- [PhaseIII.ipynb](./PhaseIII.ipynb) – Main notebook where the player evaluation logic, team comparison engine, and simulation are implemented.
+- [summary_file.xlsx](./summary_file.xlsx) – Cleaned and summarized dataset containing player stats and performance metrics.
+- [visualization1.png](./visualization1.png) – Visualization of player ratings by position.
+- [visualization2.png](./visualization2.png) – Team matchup comparisons and win probabilities.
+- [visualization3.png](./visualization3.png) – Final bracket and prediction outcome.
+- [README.md](./README.md) – Project overview and documentation.
+
 
 ## Methodology
 
